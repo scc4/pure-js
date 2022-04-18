@@ -1,4 +1,4 @@
-# pure-js
+# INSTRUÇÕES 
 CRUD pure JS
 
 Criar um sistema que adicione uma pessoa em uma tabela e que seja possível remove-la também.
