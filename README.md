@@ -19,3 +19,5 @@ BACKEND
 Você deve utilizar Java puro para criar o RESTful endpoint de insert (POST) e de remoção (DELETE)
 Deve salvar em um banco de dados MySQL
 
+SUGESTÕES:
+Jackson for JSON serialisation
