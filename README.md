@@ -20,4 +20,4 @@ Você deve utilizar Java puro para criar o RESTful endpoint de insert (POST) e d
 Deve salvar em um banco de dados MySQL
 
 SUGESTÕES:
-Jackson for JSON serialisation
+Usar o Gson ou Jackson para serealizar objetos JSON
