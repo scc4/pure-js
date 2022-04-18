@@ -17,7 +17,7 @@ Veja abaixo uma foto do que se espera:
 BACKEND
 
 Você deve utilizar Java puro para criar o RESTful endpoint de insert (POST) e de remoção (DELETE)
-Deve salvar em um banco de dados MySQL
+Deve salvar em um banco de dados MongoDB
 
 SUGESTÕES:
 Usar o Gson ou Jackson para serializar objetos JSON
