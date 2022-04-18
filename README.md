@@ -16,6 +16,6 @@ Veja abaixo uma foto do que se espera:
 
 BACKEND
 
-Você deve utilizar Java puro para crira o RESTful endpoint de insert (POST) e de remoção (DELETE)
+Você deve utilizar Java puro para criar o RESTful endpoint de insert (POST) e de remoção (DELETE)
 Deve salvar em um banco de dados MySQL
 
