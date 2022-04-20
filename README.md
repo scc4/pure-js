@@ -20,4 +20,5 @@ Você deve utilizar Java puro para criar o RESTful endpoint de insert (POST) e d
 Deve salvar em um banco de dados MongoDB
 
 SUGESTÕES:
+
 Usar o Gson ou Jackson para serializar objetos JSON
