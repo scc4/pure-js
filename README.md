@@ -12,6 +12,7 @@ Essa ação deverá ser comandada pelo seu código em Javascript e cooredenada c
 
 Veja abaixo uma foto do que se espera:
 
+
 ![javascript-puro](https://user-images.githubusercontent.com/11966183/163838488-186296b6-10f9-4e68-83b6-b5bb248d207e.jpg)
 
 BACKEND
