@@ -10,7 +10,7 @@ Para isso você precisa apenas de campos de texto (inputs) um botão e uma tabel
 
 Essa tabela deverá conter todos os dados de uma pessoa: nome, e-mail, telefone, profissão. 
 Ao final de cada linha da tabela adicione um botão “remover”, ao clicar nele a linha deverá ser removida da tabela.
-Essa ação deverá ser comandada pelo seu código em Javascript e cooredenada com o backend.
+Essa ação deverá ser comandada pelo seu código em Javascript e cordenada com o backend.
 
 Veja abaixo uma foto do que se espera:
 
