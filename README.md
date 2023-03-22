@@ -4,7 +4,9 @@ CRUD pure JS
 Criar um sistema que adicione uma pessoa em uma tabela e que seja possível remove-la também.
 
 FRONTEND
-Você pode utilizar apenas HTML CSS e Javascript puro. Para isso você precisa apenas de campos de texto (inputs) um botão e uma tabela.
+Você pode utilizar somente HTML CSS e Javascript puro, não podem ser usuados frameworks.
+
+Para isso você precisa apenas de campos de texto (inputs) um botão e uma tabela.
 
 Essa tabela deverá conter todos os dados de uma pessoa: nome, e-mail, telefone, profissão. 
 Ao final de cada linha da tabela adicione um botão “remover”, ao clicar nele a linha deverá ser removida da tabela.
