@@ -18,7 +18,8 @@ Veja abaixo uma foto do que se espera:
 
 BACKEND
 
-Você deve utilizar Java puro para criar o RESTfull endpoint de insert (POST) e de remoção (DELETE).
+Você deve utilizar JAVA crirar o RESTfull endpoint de insert (POST) e de remoção (DELETE).
+Utilizar Spring ou Quarkus, mas não utlizar JPA ou Hibernate.
 
 Deve salvar em um banco de dados MongoDB
 
